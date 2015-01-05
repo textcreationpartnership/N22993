@@ -116,23 +116,24 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:030369_0000_0FE6B6DF46756588"/>
-            <pb facs="tcp:030369_0001_0FE6B668EC06EF60" rendition="simple:additions"/>
+            <pb facs="unknown:030369_0000_0FE6B6DF46756588"/>
+            <pb facs="unknown:030369_0001_0FE6B668EC06EF60"
+                rendition="simple:additions"/>
             <p>THE ARCHERS, OR MOUNTAINEERS OF SWITZERLAND; TO WHICH IS SUBJOINED A BRIEF HISTORICAL ACCOUNT OF SWITZERLAND.</p>
             <p>[COPY RIGHT SECURED.]</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:030369_0002_0FE6B66118EE9D38"/>
+            <pb facs="unknown:030369_0002_0FE6B66118EE9D38"/>
             <p>THE ARCHERS, OR MOUNTAINEERS OF SWITZERLAND; AN OPERA, IN THREE ACTS, AS PERFORMED BY THE OLD AMERICAN COMPANY, IN NEW-YORK; TO WHICH IS SUBJOINED A BRIEF HISTORICAL ACCOUNT OF SWITZERLAND, FROM THE DISSOLUTION OF THE ROMAN EMPIRE, TO THE FINAL ESTABLISHMENT OF THE HELVETIC CONFEDERACY, BY THE BATTLE OF SEMPACH.</p>
             <p>NEW-YORK: Printed by T. &amp; J. SWORDS, No. 99 Pearl-Street. —1796.—</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:030369_0003_0FE6B645399322C0"/>
+            <pb facs="unknown:030369_0003_0FE6B645399322C0"/>
             <head>PREFACE.</head>
             <p>IN the summer of the year 1794, a dramatic performance, published in London, was left with me, called HELVETIC LIBERTY. I was requested to adapt it to our stage. After several perusals, I gave it up, as incorrigible; but, pleas<g ref="char:EOLhyphen"/>ed with the subject, I recurred to the history of Switzerland, and composed the Piece now pre<g ref="char:EOLhyphen"/>sented to the public.</p>
             <p>Any person, who has the curiosity to compare the two pieces, will observe that I have adopted three of the imaginary characters, from HEL<g ref="char:EOLhyphen"/>VETIC LIBERTY,—the <hi>Burgomaster, Lieutenant,</hi> and <hi>Rhodolpha:</hi> I believe they are, however, strictly my own. The other similarities are the necessary consequences of being both founded on the same historic fact.</p>
             <p>Should the reader meet with thoughts, ex<g ref="char:EOLhyphen"/>pressions, or even a line, which is not new, I hope he will acquit me of any intention to impose on him; and consider it rather as the
-<pb n="vi" facs="tcp:030369_0004_0FE6B658832269F8"/>
+<pb n="vi" facs="unknown:030369_0004_0FE6B658832269F8"/>
 effect of a treacherous memory. For instance, that line of Portia's—</p>
             <l>"So many widows weep their husbands slain"—</l>
             <p>since the printing of the first sheet, I under<g ref="char:EOLhyphen"/>stand to be the property of Lady Randolph, with only the trifling alteration of "How" into "So."</p>
@@ -148,7 +149,7 @@ effect of a treacherous memory. For instance, that line of Portia's—</p>
             </closer>
          </div>
          <div type="prologue">
-            <pb facs="tcp:030369_0005_0FE6B6D6FB179428"/>
+            <pb facs="unknown:030369_0005_0FE6B6D6FB179428"/>
             <head>PROLOGUE.</head>
             <l>WE tell a tale of Liberty to-night;</l>
             <l>How patriots freely bleed, and freemen fight;</l>
@@ -181,7 +182,7 @@ effect of a treacherous memory. For instance, that line of Portia's—</p>
             <l>Firm is her step, yet modest is her mien,</l>
             <l>And conscious Virtue in her face is seen;</l>
             <l>
-               <pb n="viii" facs="tcp:030369_0006_0FE6B69BF983C140"/>Valour, and manly Science in her train,</l>
+               <pb n="viii" facs="unknown:030369_0006_0FE6B69BF983C140"/>Valour, and manly Science in her train,</l>
             <l>Upholding Peace, who blesses all the plain:</l>
             <l>Her locks luxuriant, circling tendrils bind;</l>
             <l>Her virgin manners, show a virgin mind;</l>
@@ -237,7 +238,7 @@ effect of a treacherous memory. For instance, that line of Portia's—</p>
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:030369_0007_0FE6B67CEABB4908"/>
+            <pb facs="unknown:030369_0007_0FE6B67CEABB4908"/>
             <head>THE ARCHERS; OR, MOUNTAINEERS OF SWITZERLAND.</head>
             <div n="1" type="act">
                <head>ACT FIRST.</head>
@@ -271,7 +272,7 @@ effect of a treacherous memory. For instance, that line of Portia's—</p>
                                  <l>Come who'll buy my baskets?</l>
                               </lg>
                               <lg>
-                                 <pb n="10" facs="tcp:030369_0008_0FE6B6726B5258E8"/>
+                                 <pb n="10" facs="unknown:030369_0008_0FE6B6726B5258E8"/>
                                  <l>Here's love-letter baskets</l>
                                  <l>Of willow so trim,</l>
                                  <l>For the swain who sore sighs</l>
@@ -331,7 +332,7 @@ effect of a treacherous memory. For instance, that line of Portia's—</p>
                      <p>I'm glad on't.</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:030369_0009_0FE6B690FB803550"/>
+                     <pb n="11" facs="unknown:030369_0009_0FE6B690FB803550"/>
                      <speaker>CONRAD.</speaker>
                      <p>You're glad on't? Well, that shows a christian-like disposi<g ref="char:EOLhyphen"/>tion in you. Pray now your reason? I should like to know the depth of a basket-woman's politics.</p>
                   </sp>
@@ -362,7 +363,7 @@ effect of a treacherous memory. For instance, that line of Portia's—</p>
                   <sp>
                      <speaker>CECILY.</speaker>
                      <p>Why, you know, Conrad, you told me that most people's interest had a broad bottom; and knowing, that as a seller of
-<pb n="12" facs="tcp:030369_0010_0FE6B6CE110A4630"/>
+<pb n="12" facs="unknown:030369_0010_0FE6B6CE110A4630"/>
 bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>your</hi> interest might be as broad as the best of them.</p>
                   </sp>
                   <sp>
@@ -410,7 +411,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <p>No, certainly not! You don't suppose I would think of leading the beast without the halter?</p>
                   </sp>
                   <stage>
-                     <pb n="13" facs="tcp:030369_0011_0FE6B69844C3A678"/>DUET.</stage>
+                     <pb n="13" facs="unknown:030369_0011_0FE6B69844C3A678"/>DUET.</stage>
                   <sp>
                      <speaker>CONRAD.</speaker>
                      <l>If a man would a faithful follower have,</l>
@@ -448,7 +449,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <p>Yes, I think you are—this is wolf-napping I suppose. If ever I get clear, you'll not catch <hi>me</hi> napping again.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:030369_0012_0FE6B6452660DFF8"/>
+                     <pb n="14" facs="unknown:030369_0012_0FE6B6452660DFF8"/>
                      <speaker>LIEUTENANT.</speaker>
                      <p>We have the greatest tenderness for the rights of the sub<g ref="char:EOLhyphen"/>ject. If the rascal attempts to speak gag him.</p>
                   </sp>
@@ -499,7 +500,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <p>And my bowls?</p>
                   </sp>
                   <sp>
-                     <pb n="15" facs="tcp:030369_0013_0FE6B68D085A5DE0"/>
+                     <pb n="15" facs="unknown:030369_0013_0FE6B68D085A5DE0"/>
                      <speaker>LIEUTENANT.</speaker>
                      <p>We'll take care of every thing belonging to you.</p>
                   </sp>
@@ -561,7 +562,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="16" facs="tcp:030369_0014_0FE64A3963B55B80"/>
+                  <pb n="16" facs="unknown:030369_0014_0FE64A3963B55B80"/>
                   <head>SCENE SECOND.</head>
                   <stage>WILLIAM TELL <hi>is discovered adjusting his Arms—a Hel<g ref="char:EOLhyphen"/>met, Cuirass, Cross-bow and Pike lying around—his lit<g ref="char:EOLhyphen"/>tle Son trying to draw the Sword.</hi>
                   </stage>
@@ -608,7 +609,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <l>Their unbound tresses mingled with the dust!</l>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:030369_0015_0FE6B648165D47E0"/>
+                     <pb n="17" facs="unknown:030369_0015_0FE6B648165D47E0"/>
                      <speaker>TELL.</speaker>
                      <l>No doubt, no doubt, war is the curse of man;</l>
                      <l>Himself contriv'd, himself inflicts, the woe.</l>
@@ -652,7 +653,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <l>Nay, tho' secure myself, I would not see</l>
                      <l>Our brave and hardy mountaineers oppress'd.</l>
                      <l>
-                        <pb n="18" facs="tcp:030369_0016_0FE6B6D5E6B6EF38"/>
+                        <pb n="18" facs="unknown:030369_0016_0FE6B6D5E6B6EF38"/>
                         <hi>They</hi> now are rouzing; <hi>mine</hi> shall be the task</l>
                      <l>To stir the lazy citizens of <hi>Altdorf,</hi>
                      </l>
@@ -709,7 +710,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <l>Go forth, my Tell—the God of battles shield thee!</l>
                      <l>And, shouldst thou fall, each hour I'll tell the boy</l>
                      <l>
-                        <pb n="19" facs="tcp:030369_0017_0FE6B6482A4332D8"/>How, and for what, his father gave his life.</l>
+                        <pb n="19" facs="unknown:030369_0017_0FE6B6482A4332D8"/>How, and for what, his father gave his life.</l>
                      <l>I will a rustic altar form of swerd,</l>
                      <l>And every morn there place his little hands,</l>
                      <l>And make him swear eternal enmity</l>
@@ -765,7 +766,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <l>Swelling high the hero's breast.</l>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:030369_0018_0FE6B655DD892070"/>
+                     <pb n="20" facs="unknown:030369_0018_0FE6B655DD892070"/>
                      <speaker>SINGLE BOWMAN.</speaker>
                      <lg>
                         <l>Remembrance of our former bliss,</l>
@@ -817,7 +818,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <l>I know him well; first of his countrymen.</l>
                   </sp>
                   <stage>
-                     <pb n="21" facs="tcp:030369_0019_0FE6B668D92D6B58"/>
+                     <pb n="21" facs="unknown:030369_0019_0FE6B668D92D6B58"/>
                      <hi>Enter</hi> WALTER <hi>and</hi> ARNOLD.</stage>
                   <sp>
                      <speaker>WALTER.</speaker>
@@ -867,7 +868,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <l>I like it well; 'twill even rouze the dull.</l>
                      <l>There's not a privilege but he doth wrest,</l>
                      <l>
-                        <pb n="22" facs="tcp:030369_0020_0FE6B673E12D54F8"/>Or warp it from its purpose to annoy us:</l>
+                        <pb n="22" facs="unknown:030369_0020_0FE6B673E12D54F8"/>Or warp it from its purpose to annoy us:</l>
                      <l>And, not content, adds insult to injustice.</l>
                      <l>I'm told that he hath rais'd a pole in Altdorf;</l>
                      <l>Whereon, in mockery vile, his hat is fix'd;</l>
@@ -914,7 +915,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <l>That is the horn of Schweitz; they are our friends<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="23" facs="tcp:030369_0021_0FE6B68E23CB44E0"/>Behold, now issuing from the trees</l>
+                        <pb n="23" facs="unknown:030369_0021_0FE6B68E23CB44E0"/>Behold, now issuing from the trees</l>
                      <l>They leave the hill and this way come amain.</l>
                      <l>See at their head brave <hi>Werner Staffach</hi> moves:</l>
                      <l>He comes to meet us here, the Chief of Schweitz.</l>
@@ -961,7 +962,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <l>Tho' hosts oppose him, virtue is his shield,</l>
                      <l>And heaven assents in thunders of applause.</l>
                      <stage>
-                        <pb n="24" facs="tcp:030369_0022_0FE6B6C19F477DF8"/>CHORUS OF THE WHOLE.</stage>
+                        <pb n="24" facs="unknown:030369_0022_0FE6B6C19F477DF8"/>CHORUS OF THE WHOLE.</stage>
                      <l>To the war-horn's loud and solemn blast,</l>
                      <l>Floating on th' affrighted air,</l>
                      <l>With souls on fire we eager haste,</l>
@@ -1009,7 +1010,7 @@ bowls, you have a pretty wide consicence, I did not know but the bottom of <hi>y
                      <l>So ever fall the foes of Switzerland.</l>
                      <l>So still, to death devoted for their country,</l>
                      <l>
-                        <pb n="25" facs="tcp:030369_0023_0FE6B69FC1B89128"/>March our bold yeomen dauntless to the field.</l>
+                        <pb n="25" facs="unknown:030369_0023_0FE6B69FC1B89128"/>March our bold yeomen dauntless to the field.</l>
                      <l>Come forth my sword.
 <stage>(Draws)</stage>
 Draw thou, its fellow, Werner.
@@ -1063,7 +1064,7 @@ This is the sacred sign</l>
                      <p>Arise, my child.</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:030369_0024_0FE6B6F8F1619A00"/>
+                     <pb n="26" facs="unknown:030369_0024_0FE6B6F8F1619A00"/>
                      <speaker>RHODOLPHA.</speaker>
                      <p>First, father, give assent.</p>
                   </sp>
@@ -1114,7 +1115,7 @@ This is the sacred sign</l>
                      <l>And when my father sees the Austrian ranks</l>
                      <l>Mown down, or scatter'd, flying o'er the plain,</l>
                      <l>
-                        <pb n="27" facs="tcp:030369_0025_0FE6B66397D63410"/>Our arrows still pursuing; then thy heart</l>
+                        <pb n="27" facs="unknown:030369_0025_0FE6B66397D63410"/>Our arrows still pursuing; then thy heart</l>
                      <l>Shall leap within thy breast; and thou shalt feel</l>
                      <l>Some consolation, tho' thou lack'st a son.</l>
                   </sp>
@@ -1175,7 +1176,7 @@ This is the sacred sign</l>
                                     <l>At the trumpet's clang, or the war-horn's sound,</l>
                                     <l>As the tight-rein'd charger paws the ground,</l>
                                     <l>
-                                       <pb n="28" facs="tcp:030369_0026_0FE6B6AEF97E0098"/>Impatient to the field where armies low'r</l>
+                                       <pb n="28" facs="unknown:030369_0026_0FE6B6AEF97E0098"/>Impatient to the field where armies low'r</l>
                                     <l>Fly we the winged death to pour.</l>
                                  </lg>
                                  <lg>
@@ -1216,7 +1217,7 @@ This is the sacred sign</l>
                <trailer>END OF ACT FIRST.</trailer>
             </div>
             <div n="2" type="act">
-               <pb n="29" facs="tcp:030369_0027_0FE6B67257F8F298"/>
+               <pb n="29" facs="unknown:030369_0027_0FE6B67257F8F298"/>
                <head>ACT SECOND.</head>
                <div n="1" type="scene">
                   <head>SCENE FIRST.</head>
@@ -1257,7 +1258,7 @@ without further orders. Secondly, every person who comes this way you are to cha
                      <p>Aye, as happy as me.</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:030369_0028_0FE6B6F90B5E2FD0"/>
+                     <pb n="30" facs="unknown:030369_0028_0FE6B6F90B5E2FD0"/>
                      <speaker>LIEUTENANT.</speaker>
                      <l>How jovially the glass goes round,</l>
                      <l>A bottle is due to each man;</l>
@@ -1306,7 +1307,7 @@ without further orders. Secondly, every person who comes this way you are to cha
                      <p>Scoundrel.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:030369_0029_0FE6B6FA247753C0"/>
+                     <pb n="31" facs="unknown:030369_0029_0FE6B6FA247753C0"/>
                      <speaker>CONRAD.</speaker>
                      <p>Mum.</p>
                   </sp>
@@ -1350,7 +1351,7 @@ Mum.</p>
                      <l>I'd plant the country round with groves of gibbets.</l>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:030369_0030_0FE6B6FA39E7D658"/>
+                     <pb n="32" facs="unknown:030369_0030_0FE6B6FA39E7D658"/>
                      <speaker>CONRAD.</speaker>
                      <p>A very pleasant kind of plantation;—and new.</p>
                   </sp>
@@ -1401,7 +1402,7 @@ Mum.</p>
                      <l>Whereon it hangs.</l>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:030369_0031_0FE6B701C2DF5A00"/>
+                     <pb n="33" facs="unknown:030369_0031_0FE6B701C2DF5A00"/>
                      <speaker>CONRAD.</speaker>
                      <p>O don't shoot Mistress Rhodolpha! Why don't you know me? Don't you know poor Conrad the bowl-man.</p>
                   </sp>
@@ -1452,7 +1453,7 @@ Mum.</p>
                         </gap>master: —don't seem as if you knew me.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:030369_0032_0FE6B701D6BF0F20"/>
+                     <pb n="34" facs="unknown:030369_0032_0FE6B701D6BF0F20"/>
                      <speaker>RHODOLPHA.</speaker>
                      <l>No, I will not disgrace thee with thy friends;</l>
                      <l>Thou hast already learn'd the trick of state.</l>
@@ -1513,7 +1514,7 @@ Mum.</p>
                      <p>And am not I a part of Switzerland?</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:030369_0033_0FE6B702F19928A8"/>
+                     <pb n="35" facs="unknown:030369_0033_0FE6B702F19928A8"/>
                      <speaker>CONRAD.</speaker>
                      <p>Aye, and no small part neither.—You'll take care of one mountain at least.—When I have seen your worship walk of a warm day, I have thought you were very like Mount Blanc.</p>
                   </sp>
@@ -1550,7 +1551,7 @@ Mum.</p>
                      <l>Thou blown-up thing! thou mockery of man!</l>
                      <l>Think'st thou the generous Walter Furst, like thee,</l>
                      <l>
-                        <pb n="36" facs="tcp:030369_0034_0FE6B6B175DA9B18"/>Would leave the gallant men, who look to him</l>
+                        <pb n="36" facs="unknown:030369_0034_0FE6B6B175DA9B18"/>Would leave the gallant men, who look to him</l>
                      <l>For sage direction in th' approaching storms,</l>
                      <l>In hopes of Albert's smiles, or fear of frowns?</l>
                      <l>My father, with his countrymen, will share</l>
@@ -1597,7 +1598,7 @@ Mum.</p>
                      </l>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:030369_0035_0FE6B6BBEF1B7E78"/>
+                     <pb n="37" facs="unknown:030369_0035_0FE6B6BBEF1B7E78"/>
                      <speaker>BURGOMASTER.</speaker>
                      <p>What, would'st thou murder me? Soldier, defend the em<g ref="char:EOLhyphen"/>peror's officer.</p>
                   </sp>
@@ -1660,7 +1661,7 @@ Mum.</p>
                      <p>Who sticks here! thou mean'st—What a young tygress! Come hither, rascal, and help me up.</p>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:030369_0036_0FE64A2D036AC180"/>
+                     <pb n="38" facs="unknown:030369_0036_0FE64A2D036AC180"/>
                      <speaker>CONRAD.</speaker>
                      <p>A soldier should never leave his post:—But, if you will come here I will help you.</p>
                   </sp>
@@ -1717,7 +1718,7 @@ Mum.</p>
                      <l>A little while, attention lend to me?</l>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:030369_0037_0FE64A2CE856DFB0"/>
+                     <pb n="39" facs="unknown:030369_0037_0FE64A2CE856DFB0"/>
                      <speaker>ALL BURGHERS.</speaker>
                      <p>Hear Tell! hear William!</p>
                   </sp>
@@ -1766,7 +1767,7 @@ Mum.</p>
                      <l>While those accustom'd to the tyrant's chain,</l>
                      <l>When rouz'd, by sense of wrongs, to burst their bonds,</l>
                      <l>
-                        <pb n="40" facs="tcp:030369_0038_0FE6B67A833A7638"/>Are left alone to Passion's erring guidance.</l>
+                        <pb n="40" facs="unknown:030369_0038_0FE6B67A833A7638"/>Are left alone to Passion's erring guidance.</l>
                      <l>Such are not we: we know our rights; have laws,</l>
                      <l>For which our fathers fought:—by them be guided:</l>
                      <l>Form, by them, our fixed resolutions;</l>
@@ -1820,7 +1821,7 @@ Mum.</p>
                      <p>No, William, no!</p>
                   </sp>
                   <sp>
-                     <pb n="41" facs="tcp:030369_0039_0FE6B681B6A5FD80"/>
+                     <pb n="41" facs="unknown:030369_0039_0FE6B681B6A5FD80"/>
                      <speaker>3d BURGHER.</speaker>
                      <p>We'll live, or die, with thee!</p>
                   </sp>
@@ -1867,7 +1868,7 @@ Mum.</p>
                      <l>That hold must be secur'd. Ay—it must be so—</l>
                   </sp>
                   <stage>
-                     <pb n="42" facs="tcp:030369_0040_0FE6B6BE71B37708"/>LIEUTENANT <hi>enters behind with</hi> GUARDS.</stage>
+                     <pb n="42" facs="unknown:030369_0040_0FE6B6BE71B37708"/>LIEUTENANT <hi>enters behind with</hi> GUARDS.</stage>
                   <sp>
                      <speaker>LIEUTENANT.</speaker>
                      <p>Seize him!
@@ -1910,7 +1911,7 @@ Bind him!</p>
                   <sp>
                      <speaker>CONRAD.</speaker>
                      <p>Who comes there? A murrain on this drowsiness!—Yaw —I was up so early—ay, and a pretty morning's work I've
-<pb n="43" facs="tcp:030369_0041_0FE6B6BEA4BE1120"/>
+<pb n="43" facs="unknown:030369_0041_0FE6B6BEA4BE1120"/>
 made of it! None of the burghers pass this way: so the governor's hat has nobody's bows but mine—and, to say the truth, they are rather on the nod order—familiar.—I don't see that they intend to relieve me; so I'll e'en sit myself down, draw my head into my shell, and nap it a while.</p>
                   </sp>
                   <stage>
@@ -1948,7 +1949,7 @@ made of it! None of the burghers pass this way: so the governor's hat has nobody
                      <l>Thou, too, a vile apostate, willing slave—</l>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:030369_0042_0FE6B6CCEE5C58E0"/>
+                     <pb n="44" facs="unknown:030369_0042_0FE6B6CCEE5C58E0"/>
                      <speaker>BURGOMASTER.</speaker>
                      <p>William, thou know'st me not. The good of Switzerland is ever in my thought. Indeed, I fear much thinking yet will be the death of me; or waste me down to nothing. From all my cogitations, I conclude, that we should yield these trifling forms and tokens of obedience to the emperor, in return for his protection.—It is but reasonable, too, that the emperor should tax our peasantry, to pay his soldiers.—'Tis but right. —Such men as thee, <gap reason="illegible: indecipherable" extent="1 letter">
                            <desc>•</desc>
@@ -1978,7 +1979,7 @@ made of it! None of the burghers pass this way: so the governor's hat has nobody
                   <sp>
                      <speaker>BURGOMASTER.</speaker>
                      <p>Ha, ha! to hear men talk of smiling at the gallows—as if hanging were a laughing matter.—It's pride, rank pride— Heaven keep me from such distinction! The very thought of suffocation choaks me. Yet we must all die. All flesh is
-<pb n="45" facs="tcp:030369_0043_0FE6B6982CD70100"/>
+<pb n="45" facs="unknown:030369_0043_0FE6B6982CD70100"/>
 mortal. If so, I have a double portion of mortality. This Tell never knew the joys of good living, or he would not be so ready to die. He eats when he's hungry, and drinks when he's dry.—Now, I eat that I may be hungry; provoking Ap<g ref="char:EOLhyphen"/>petite to the field, that I may have the pleasure of slaying him. While I am enabled to do this, I wish no change—No, no, 'tis far better to hold my office from the emperor, than to de<g ref="char:EOLhyphen"/>pend upon the voices of a parcel of razor-fac'd rogues, who envy me my ruddy cheeks, and eye my portly walk, with as keen a glance, as if I was a well-fed ox for the governor's table.
 <stage>Struts off.</stage>
                      </p>
@@ -2015,7 +2016,7 @@ mortal. If so, I have a double portion of mortality. This Tell never knew the jo
                                  <p>Bow.</p>
                               </sp>
                               <sp>
-                                 <pb n="46" facs="tcp:030369_0044_0FE6B69FA7735998"/>
+                                 <pb n="46" facs="unknown:030369_0044_0FE6B69FA7735998"/>
                                  <speaker>CECILY.</speaker>
                                  <l>What a dolt-head, to fall thus asleep!</l>
                                  <l>'Twas this morning you said I was fair;</l>
@@ -2065,7 +2066,7 @@ mortal. If so, I have a double portion of mortality. This Tell never knew the jo
                      <p>If I could once get away and join the bowmen, then I could marry you; and mistress Rhodolpha would promote you to be one of her virgins.</p>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:030369_0045_0FE6B69BE55F46A8"/>
+                     <pb n="47" facs="unknown:030369_0045_0FE6B69BE55F46A8"/>
                      <speaker>CECILY.</speaker>
                      <p>That would be pure.</p>
                   </sp>
@@ -2114,7 +2115,7 @@ I don't see but you make as good a soldier as I did. You will follow as soon as 
                                  <l>I'll tell ye of a lovyier,</l>
                                  <l>That left his faithful she—</l>
                                  <p>
-                                    <pb n="48" facs="tcp:030369_0046_0FE6B658678445A0"/>No, hang that! it's too dismal; I won't sing that. Let me see—aye—now for a merry stave.</p>
+                                    <pb n="48" facs="unknown:030369_0046_0FE6B658678445A0"/>No, hang that! it's too dismal; I won't sing that. Let me see—aye—now for a merry stave.</p>
                                  <lg>
                                     <l>There liv'd in Altdorf city fair,</l>
                                     <l>A maiden blythe and free;</l>
@@ -2165,7 +2166,7 @@ I don't see but you make as good a soldier as I did. You will follow as soon as 
                      <l>See instant execution done upon him.</l>
                      <l>We'll teach the rogues to mutiny and growl.</l>
                      <l>
-                        <pb n="49" facs="tcp:030369_0047_0FE6B673F5B87CB8"/>There, where he did refuse to bow his head,</l>
+                        <pb n="49" facs="unknown:030369_0047_0FE6B673F5B87CB8"/>There, where he did refuse to bow his head,</l>
                      <l>There be he hung. We'll see the execution.</l>
                   </sp>
                   <sp>
@@ -2216,7 +2217,7 @@ I don't see but you make as good a soldier as I did. You will follow as soon as 
                      <l>An Austrian trooper even now arriv'd;</l>
                      <l>His horse's sides all bath'd in foam and gore,—</l>
                      <l>
-                        <pb n="50" facs="tcp:030369_0048_0FE6B65FCADAE288"/>With desperate spurring; and he bade me say</l>
+                        <pb n="50" facs="unknown:030369_0048_0FE6B65FCADAE288"/>With desperate spurring; and he bade me say</l>
                      <l>The emperor hath fall'n by vile assassins.</l>
                   </sp>
                   <sp>
@@ -2278,7 +2279,7 @@ I don't see but you make as good a soldier as I did. You will follow as soon as 
                      <l>It will be said we fear'd:—it might be thought so.</l>
                      <l>Now, forasmuch as we have often heard</l>
                      <l>
-                        <pb n="51" facs="tcp:030369_0049_0FE6B6853B3FEC48"/>Of William's archery, he must comply,</l>
+                        <pb n="51" facs="unknown:030369_0049_0FE6B6853B3FEC48"/>Of William's archery, he must comply,</l>
                      <l>And set himself to make some sport for us:</l>
                      <l>And this shall be the manner. Near the pole,</l>
                      <l>Where William did refuse to bow his head,</l>
@@ -2325,7 +2326,7 @@ I don't see but you make as good a soldier as I did. You will follow as soon as 
                   </sp>
                </div>
                <div n="5" type="scene">
-                  <pb n="52" facs="tcp:030369_0050_0FE6B690E84C6418"/>
+                  <pb n="52" facs="unknown:030369_0050_0FE6B690E84C6418"/>
                   <head>SCENE FIFTH.</head>
                   <stage>
                      <hi>The Mountains, a Water-Fall, and a distant View of a Part of the Lake. Enter</hi> WALTER, <hi>meeting</hi> ARNOLD MELCHTHAL <hi>and</hi> BOWMEN.</stage>
@@ -2382,7 +2383,7 @@ I don't see but you make as good a soldier as I did. You will follow as soon as 
                            <desc>•</desc>
                         </gap>e on his life,</l>
                      <l>
-                        <pb n="53" facs="tcp:030369_0051_0FE6B64A78F9D0C0"/>Unless he hath an Austrian army 'round him.</l>
+                        <pb n="53" facs="unknown:030369_0051_0FE6B64A78F9D0C0"/>Unless he hath an Austrian army 'round him.</l>
                   </sp>
                   <sp>
                      <speaker>RHODOLPHA.</speaker>
@@ -2429,7 +2430,7 @@ I don't see but you make as good a soldier as I did. You will follow as soon as 
                </div>
             </div>
             <div n="3" type="act">
-               <pb n="54" facs="tcp:030369_0052_0FE6B6B18D58ABF8"/>
+               <pb n="54" facs="unknown:030369_0052_0FE6B6B18D58ABF8"/>
                <head>ACT THIRD.</head>
                <div n="1" type="scene">
                   <head>SCENE FIRST.</head>
@@ -2479,7 +2480,7 @@ I don't see but you make as good a soldier as I did. You will follow as soon as 
                      </p>
                   </sp>
                   <stage>
-                     <pb n="55" facs="tcp:030369_0053_0FE64A3947514698"/>
+                     <pb n="55" facs="unknown:030369_0053_0FE64A3947514698"/>
                      <hi>Enter</hi> GESLER <hi>and Attendants; he seats himself.</hi> LIEU<g ref="char:EOLhyphen"/>TENANT <hi>with the Guards.</hi>
                   </stage>
                   <sp>
@@ -2526,7 +2527,7 @@ I don't see but you make as good a soldier as I did. You will follow as soon as 
                      <l>Put faith in me.</l>
                   </sp>
                   <sp>
-                     <pb n="56" facs="tcp:030369_0054_0FE6B6DF5991FD70"/>
+                     <pb n="56" facs="unknown:030369_0054_0FE6B6DF5991FD70"/>
                      <speaker>BOY.</speaker>
                      <p>My father will not hurt me.</p>
                   </sp>
@@ -2579,7 +2580,7 @@ Oh, my child!
                      <l>This arrow should have cleft thy heart in twain.</l>
                   </sp>
                   <stage>
-                     <pb n="57" facs="tcp:030369_0055_0FE6B6E0B3451B58"/>
+                     <pb n="57" facs="unknown:030369_0055_0FE6B6E0B3451B58"/>
                      <hi>Enter</hi> PORTIA.</stage>
                   <sp>
                      <speaker>PORTIA</speaker>
@@ -2634,7 +2635,7 @@ Oh, my child!
                      <l>I'll cross the lake and join the Austrian army;</l>
                      <l>Thy task shall be to awe the citizens.</l>
                      <l>
-                        <pb n="58" facs="tcp:030369_0056_0FE6B6E0CA23EE98"/>Yet of their loyalty I make no doubt,</l>
+                        <pb n="58" facs="unknown:030369_0056_0FE6B6E0CA23EE98"/>Yet of their loyalty I make no doubt,</l>
                      <l>When Tell shall be removed. He goes with me.</l>
                      <l>I'll lodge him safe at Kussnacht. Quick, dispatch!</l>
                      <stage>Exit Lieutenant.</stage>
@@ -2689,7 +2690,7 @@ Oh, my child!
                      <l>Down yonder mountain's side! Trees from the earth</l>
                      <l>Drag'd, or whirl'd like straws, to gambol in the air,</l>
                      <l>
-                        <pb n="59" facs="tcp:030369_0057_0FE6B6E8A51CEE48"/>Sunder'd their sinewy roots, or only serving</l>
+                        <pb n="59" facs="unknown:030369_0057_0FE6B6E8A51CEE48"/>Sunder'd their sinewy roots, or only serving</l>
                      <l>To tear away the rocks whereon they grew,</l>
                      <l>And magnify the ruin. Sure, methinks,</l>
                      <l>The genius of our hills, in thunders, thus</l>
@@ -2747,7 +2748,7 @@ Oh, my child!
                      <l>Hath Werner yet return'd?</l>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:030369_0058_0FE6B67A6AF00120"/>
+                     <pb n="60" facs="unknown:030369_0058_0FE6B67A6AF00120"/>
                      <speaker>ARNOLD.</speaker>
                      <p>He hath not, Sir.</p>
                   </sp>
@@ -2802,7 +2803,7 @@ Oh, my child!
                      <l>But then I saw the men within the boat</l>
                      <l>In earnest treaty with a prisoner.</l>
                      <l>
-                        <pb n="61" facs="tcp:030369_0059_0FE6B7030B013708"/>They doff'd his chains; he sprang unto the helm;</l>
+                        <pb n="61" facs="unknown:030369_0059_0FE6B7030B013708"/>They doff'd his chains; he sprang unto the helm;</l>
                      <l>The bark obey'd him, and he brav'd the seas.—</l>
                      <l>'Twas Tell—I knew him by his gallant mien!</l>
                   </sp>
@@ -2861,7 +2862,7 @@ Oh, my child!
                      </floatingText>
                   </q>
                   <stage>
-                     <pb n="62" facs="tcp:030369_0060_0FE6B6D714117768"/>
+                     <pb n="62" facs="unknown:030369_0060_0FE6B6D714117768"/>
                      <hi>Enter</hi> TELL. <hi>Bowmen and Pikemen enter from several parts.</hi>
                   </stage>
                   <sp>
@@ -2911,7 +2912,7 @@ Oh, my child!
                      <l>I do your confidence accept with thanks.—</l>
                      <l>Come! let us rather lead on Time than follow!</l>
                      <l>
-                        <pb n="63" facs="tcp:030369_0061_0FE6B68CF0673C40"/>Some one among us must surprize the town;</l>
+                        <pb n="63" facs="unknown:030369_0061_0FE6B68CF0673C40"/>Some one among us must surprize the town;</l>
                      <l>The Austrian arms in sight, they feel secure;—</l>
                      <l>This will give 'vantage to the ready burghers,</l>
                      <l>Who straight must issue forth and join our force.</l>
@@ -2960,7 +2961,7 @@ Oh, my child!
                      <l>For one whose deeds excell?</l>
                   </sp>
                   <sp>
-                     <pb n="64" facs="tcp:030369_0062_0FE6B661058EBEA8"/>
+                     <pb n="64" facs="unknown:030369_0062_0FE6B661058EBEA8"/>
                      <speaker>ARNOLD.</speaker>
                      <l>Shall we in cities look and courts?</l>
                      <l>'Midst noblemen and kings?</l>
@@ -3003,7 +3004,7 @@ Come hither, rascal! I see halter in your face.</p>
                      <p>You have a gallows countenance. You are the sentinel that suffer'd me to be insulted this morning.</p>
                   </sp>
                   <sp>
-                     <pb n="65" facs="tcp:030369_0063_0FE6B6BBDC3279B0"/>
+                     <pb n="65" facs="unknown:030369_0063_0FE6B6BBDC3279B0"/>
                      <speaker>CONRAD.</speaker>
                      <p>I thought your worship was big enough to take care of yourself.</p>
                   </sp>
@@ -3052,7 +3053,7 @@ Come hither, rascal! I see halter in your face.</p>
                      <p>That's more than I know. I have to do with her though: so, send for her.</p>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:030369_0064_0FE6B68E372E01D0"/>
+                     <pb n="66" facs="unknown:030369_0064_0FE6B68E372E01D0"/>
                      <speaker>LIEUTENANT.</speaker>
                      <p>Where is she?</p>
                   </sp>
@@ -3101,7 +3102,7 @@ So, my fine gentleman, you're here, are you? You thought I was safe enough, beca
                      <p>I hope your worship don't think of such a thing—I have a great deal to say, and a great deal to do—I can't possibly think of dying to-day—</p>
                   </sp>
                   <sp>
-                     <pb n="67" facs="tcp:030369_0065_0FE6B68553555740"/>
+                     <pb n="67" facs="unknown:030369_0065_0FE6B68553555740"/>
                      <speaker>LIEUTENANT.</speaker>
                      <p>Then you shall die without thinking, you dog. Bind him to the stake. Archers, prepare.</p>
                   </sp>
@@ -3142,7 +3143,7 @@ So, my fine gentleman, you're here, are you? You thought I was safe enough, beca
                      <hi>(As the guard prepare to shoot, a loud huzza is heard; they turn affrighted; a flight of arrows pass over the Stage, some falling on it. Enter</hi> RHODOLPHA <hi>and</hi> MAIDENS; <hi>the Austrians fly. Enter</hi> BOWMEN; <hi>they seize the Lieu<g ref="char:EOLhyphen"/>tenant and Burgomaster.)</hi>
                   </stage>
                   <sp>
-                     <pb n="68" facs="tcp:030369_0066_0FE6B6A5938EA720"/>
+                     <pb n="68" facs="unknown:030369_0066_0FE6B6A5938EA720"/>
                      <speaker>CONRAD.</speaker>
                      <p>Whiz! whirr! how the arrows fly about my ears! I think I'm as likely to be shot by one side as t'other. Do, Mrs. Rho<g ref="char:EOLhyphen"/>dolpha, have me untied.</p>
                   </sp>
@@ -3184,7 +3185,7 @@ Thank you.—I've had a narrow squeak of it.— It was all your fault, Ma'am, yo
                   <sp>
                      <speaker>CONRAD.</speaker>
                      <p>Give me but good sword, buckler, and helmet—I'll excuse the cuirass—and if I don't show you that my life is worth sav<g ref="char:EOLhyphen"/>ing,
-<pb n="69" facs="tcp:030369_0067_0FE6B70BD5E5ED30"/>
+<pb n="69" facs="unknown:030369_0067_0FE6B70BD5E5ED30"/>
 may I never see Dapple an ambassador! Never see Cecily one of the virgins! or myself a bowl-man again.</p>
                   </sp>
                   <q>
@@ -3239,7 +3240,7 @@ may I never see Dapple an ambassador! Never see Cecily one of the virgins! or my
                         <l>Then shall Peace lead Joy along,</l>
                         <l>"Follow, follow," be the song.</l>
                         <l>
-                           <pb n="70" facs="tcp:030369_0068_0FE6B681CD2232A8"/>Dance around, link'd hand in hand;</l>
+                           <pb n="70" facs="unknown:030369_0068_0FE6B681CD2232A8"/>Dance around, link'd hand in hand;</l>
                         <l>Switzers! this is Freedom's land.</l>
                      </lg>
                      <lg>
@@ -3284,7 +3285,7 @@ may I never see Dapple an ambassador! Never see Cecily one of the virgins! or my
                      <l>Undisciplined, unwarlike mountaineers.</l>
                      <l>O! never be it said, we fled before them.—</l>
                      <l>
-                        <pb n="71" facs="tcp:030369_0069_0FE6B70BE7EB1208"/>For me, I swear, before you all this day,</l>
+                        <pb n="71" facs="unknown:030369_0069_0FE6B70BE7EB1208"/>For me, I swear, before you all this day,</l>
                      <l>I will not quit the field, until I'm borne</l>
                      <l>Upon the victor's car, or on the bier.</l>
                      <l>Beat drums! sound trumpets! Death or victory!</l>
@@ -3328,7 +3329,7 @@ may I never see Dapple an ambassador! Never see Cecily one of the virgins! or my
                   </sp>
                   <stage>Exeunt.</stage>
                   <stage>
-                     <pb n="72" facs="tcp:030369_0070_0FE6B70D489EF860"/>
+                     <pb n="72" facs="unknown:030369_0070_0FE6B70D489EF860"/>
                      <hi>Alarm. Enter</hi> LEOPOLD <hi>and</hi> WERNER <hi>fighting</hi>—WER<g ref="char:EOLhyphen"/>NER <hi>retires fighting. Re-enter</hi> LEOPOLD.</stage>
                   <sp>
                      <speaker>LEOPOLD.</speaker>
@@ -3361,7 +3362,7 @@ may I never see Dapple an ambassador! Never see Cecily one of the virgins! or my
                      <l>I but exhaust my strength in unavailing</l>
                      <l>Slaughter. In vain I seek this peasant Mars:</l>
                      <l>
-                        <pb n="73" facs="tcp:030369_0071_0FE6B70D5C8817A8"/>He moves a rapid whirlwind o'er the field.</l>
+                        <pb n="73" facs="unknown:030369_0071_0FE6B70D5C8817A8"/>He moves a rapid whirlwind o'er the field.</l>
                      <l>The tumult this way comes—By heaven he comes!</l>
                      <l>The lion this way comes, his prey pursuing.</l>
                      <stage>(Enter Austrians, as pursued by Tell. Leopold attempts to rally them in vain.)</stage>
@@ -3407,7 +3408,7 @@ may I never see Dapple an ambassador! Never see Cecily one of the virgins! or my
                      <l>Republicans no other nobles know!</l>
                      <l>Without a hope thy army is defeated.</l>
                      <l>
-                        <pb n="74" facs="tcp:030369_0072_0FE6B67CD750AC78"/>My name is Tell. Surrender up thy sword,</l>
+                        <pb n="74" facs="unknown:030369_0072_0FE6B67CD750AC78"/>My name is Tell. Surrender up thy sword,</l>
                      <l>And I will give thee honourable treatment;</l>
                      <l>Nay, send thee home, the friend of Switzerland.</l>
                   </sp>
@@ -3444,7 +3445,7 @@ Aye! you may as well stand still—I know the weight of your coat—You might as
                      <speaker>TELL.</speaker>
                      <l>We <hi>will</hi> be proud; for Switzerland is free!</l>
                      <l>
-                        <pb n="75" facs="tcp:030369_0073_0FE6B712ADF9DDF0"/>See ye, my friends, how gay my helmet looks?</l>
+                        <pb n="75" facs="unknown:030369_0073_0FE6B712ADF9DDF0"/>See ye, my friends, how gay my helmet looks?</l>
                      <l>We've pluckt a plume from Austria's crested cap;</l>
                      <l>And given, this day, a lesson unto tyrants?</l>
                   </sp>
@@ -3491,7 +3492,7 @@ Aye! you may as well stand still—I know the weight of your coat—You might as
                      <l>Of malice and of war, fall'n bloodless round thee?</l>
                      <l>When I look back on this eventful day,</l>
                      <l>
-                        <pb n="76" facs="tcp:030369_0074_0FE6B64A90CF67E0"/>My mind is 'wilder'd 'midst the woes we've past.</l>
+                        <pb n="76" facs="unknown:030369_0074_0FE6B64A90CF67E0"/>My mind is 'wilder'd 'midst the woes we've past.</l>
                   </sp>
                   <stage>(They retire up.)</stage>
                   <sp>
@@ -3542,7 +3543,7 @@ Aye! you may as well stand still—I know the weight of your coat—You might as
                      <l>Let every man remember, private virtue</l>
                      <l>Is the true basis of all public good.—</l>
                      <l>
-                        <pb n="77" facs="tcp:030369_0075_0FE6B663CD282DE8"/>Summon the fathers of our land to meet,</l>
+                        <pb n="77" facs="unknown:030369_0075_0FE6B663CD282DE8"/>Summon the fathers of our land to meet,</l>
                      <l>And delegate to them, in trust, our power.</l>
                      <l>Their's be the task to guard our happiness,</l>
                      <l>By wholesome <hi>laws:</hi> be it ours to reverence them.</l>
@@ -3591,7 +3592,7 @@ Aye! you may as well stand still—I know the weight of your coat—You might as
                                  <l>Who'll buy our wares!—who'll buy!</l>
                               </sp>
                               <sp>
-                                 <pb n="78" facs="tcp:030369_0076_0FE6B6F3722163A8"/>
+                                 <pb n="78" facs="unknown:030369_0076_0FE6B6F3722163A8"/>
                                  <speaker>CHORUS OF THE WHOLE.</speaker>
                                  <l>When heaven pours blessings all around,</l>
                                  <l>O! may mankind be grateful found,</l>
@@ -3611,20 +3612,20 @@ Aye! you may as well stand still—I know the weight of your coat—You might as
             </div>
          </div>
          <div type="title_page">
-            <pb facs="tcp:030369_0077_0FE6B6E8B72441B8"/>
+            <pb facs="unknown:030369_0077_0FE6B6E8B72441B8"/>
             <p>A BRIEF HISTORICAL ACCOUNT OF SWITZERLAND; FROM THE DISSOLUTION OF THE ROMAN EMPIRE, TO THE FINAL ESTABLISHMENT OF THE HELVETIC CONFEDERACY, BY THE BATTLE OF SEMPACH.</p>
          </div>
          <div type="historical_account">
-            <pb facs="tcp:030369_0078_0FE6B6CE2481CF58"/>
+            <pb facs="unknown:030369_0078_0FE6B6CE2481CF58"/>
             <head>A BRIEF HISTORICAL ACCOUNT OF SWITZERLAND.</head>
             <p>WHEN a man has made any particular transaction, or individual, the subject of his pencil, or his pen, he becomes highly interested in every circumstance connected with the favourite object. But, independent of feelings of this class, which may, perhaps, be traced to vanity, every mind, fitted to conceive an idea of man's true happiness, must dwell, with an admiration bordering upon enthusiasm, on the scenery and history of Switzerland. The justly celebrated traveller, Mr. Coxe, thus begins his first letter, after entering the Canton of Shaffhausen: "I feel great delight in breathing the air of li<g ref="char:EOLhyphen"/>berty: every person here has apparently the mein of content and satisfaction. The cleanliness of the houses, and of the people, is peculiarly striking; and I can trace in all their manners, behaviour and dress, some strong outlines which distinguish this happy people from the neighbouring nations."</p>
             <p>"Of all the countries of Europe," says Voltaire in his <hi>Essai sur les moeurs et l'Esprit des Nations,</hi> "that which has preserved the simplicity of the first ages in the greatest degree, is Switzerland. If she had not thrown off the yoke of Austria, she would have had no place in the history of the world; she would have been confounded with the multitude
-<pb n="82" facs="tcp:030369_0079_0FE6B6BA52CD8D88"/>
+<pb n="82" facs="unknown:030369_0079_0FE6B6BA52CD8D88"/>
 of more fertile and opulent provinces, which follow the fate of those kingdoms in which they are swallowed up. A peo<g ref="char:EOLhyphen"/>ple attract no attention until they are independent. A lower<g ref="char:EOLhyphen"/>ing sky, a rocky and ungrateful soil, mountains and precipices, are all that nature has given to three fourths of this country. Notwithstanding which, they dispute the sovereignty of these rocks, with the same fury, with which other men contend for the possession of Naples or Asia Minor."</p>
             <p>"Never did any people combat for their liberty so long, or so bravely, as the Swiss. They triumphed over the Austrians in more than sixty battles; and, probably, will long preserve their well-bought freedom. A country whose extent is not too great, whose people are not too rich, and whose laws are dic<g ref="char:EOLhyphen"/>tated by justice, ought to be free. Liberty changed even the face of nature in Switzerland. The sterile soil became fruit<g ref="char:EOLhyphen"/>ful; the vine was planted upon the rocks; the barren heaths cleared, and cultivated, by the hands of freemen, became fertile."</p>
             <p>"Equality, the natural heritage of man, still subsists in Switzerland." "Simplicity, frugality, modesty, those preser<g ref="char:EOLhyphen"/>vatives of liberty, have, always, been their portion. They support no army to defend their frontiers, or to invade the rights of their neighbours; no fortresses to serve either against enemies or citizens; no imposts burthen the people. They support neither the pride, nor the armies of a master. Their mountains are their ramparts, and every citizen is a soldier to defend them."</p>
             <p>There are reasons which render the history of that revolu<g ref="char:EOLhyphen"/>tion, in which the Swiss Cantons threw off the yoke of Austria, peculiarly interesting to Americans. "The establishment of the Republics of Switzerland and Holland," says a learned and amiable author of our own country, "bears such a strik<g ref="char:EOLhyphen"/>ing analogy to that of the United States, in the causes which produced them, and in the manner in which they were con<g ref="char:EOLhyphen"/>ducted, that without considering them merely as illustrious precedents, they are deserving of attention in our enquiries into the foundation of our own independence." He then proceeds to mention the privileges and the charter rights, which
-<pb n="83" facs="tcp:030369_0080_0FE6B655EFC998C8"/>
+<pb n="83" facs="unknown:030369_0080_0FE6B655EFC998C8"/>
 they enjoyed under the empire; their mild remonstrance to the Emperor Albert; their confederation, &amp;c.<note n="*" place="bottom">"It is worthy of remark, that the instrument of union among the Swiss (1315) begins in the name of the people, like the con<g ref="char:EOLhyphen"/>stitution of the United States. The deed runs thus: 'A cette cause <hi>nous le Paysans</hi> d'Ury, de Schewitz, et d'Underwalden faisons ascavoir.' Leibnitz Codex dipl. 69, quoted by Ward in his Law of Nations, vol. ii. p. 275." <hi>Dissertations, &amp;c. by James Kent, professor of law in Columbia College, New-York.</hi>
                </note>
             </p>
@@ -3633,53 +3634,53 @@ they enjoyed under the empire; their mild remonstrance to the Emperor Albert; th
                   <p>Etat et Délices de la Suisse. Par Fouche.</p>
                </note> was parcelled out among bishops, abbés, canons, abbesses, convents and mo<g ref="char:EOLhyphen"/>nasteries.</p>
             <p>At the time when the greatest part of Helvetia was subject to the empire, the inhabitants of Uri, Schweitz, and Under<g ref="char:EOLhyphen"/>walden, had long enjoyed the most considerable privileges; particularly the right of being governed by their own magis<g ref="char:EOLhyphen"/>trates. The clergy, and many of the nobles, indeed, had fiefs and subjects in those respective territories; and Uri re<g ref="char:EOLhyphen"/>ceived its governors from the empire;<note n="‡" place="bottom">Busching.</note> but the bulk of the peo<g ref="char:EOLhyphen"/>ple formed several communities, almost totally independent.— The chronicles of the nation carry the date of their liberty very high. They say, that, in 829, the inhabitants of these
-<pb n="84" facs="tcp:030369_0081_0FE6B6D5D4AEDC60"/>
+<pb n="84" facs="unknown:030369_0081_0FE6B6D5D4AEDC60"/>
 Cantons went to the succour of Italy, and fought under the banners of the Marquis Guidon Pusterla, against the Saracens. They add, that Pope Gregory IV. after conferring on them the title of Defenders of the Faith, obtained for them, from the Emperor <hi>Louis le Debonnaire,</hi> the privilege of govern<g ref="char:EOLhyphen"/>ing themselves, by their own laws. Such was their situation at the death of Frederick II. in 1250. In 1251 the Cantons of Zurich, Uri, and Schweitz, entered into a strict confede<g ref="char:EOLhyphen"/>racy, to protect themselves from the encroachments of the no<g ref="char:EOLhyphen"/>bles and bishops, who, during the interregnum of eighteen years, when Germany was without an emperor, endeavoured to extend their power and enslave the people. But even this confederacy was not sufficient to defend them against these rapacious robbers; and Schweitz, Uri, and Underwalden, were obliged to put themselves under the protection of Rho<g ref="char:EOLhyphen"/>dolph of Hapsburgh; who, in 1273, being chosen emperor, terminated the interregnum.</p>
             <p>The nobles, now, formally accused these three Cantons of rebellion, and of demolishing their castles; but Rhodolph, who had himself to struggle with these smaller tyrants, gave judgment in favour of the people. He received a small re<g ref="char:EOLhyphen"/>venue from these Cantons, and appointed a governor, who took cognizance of all criminal causes. The rights, however, and privileges of the people, were expressly reserved.</p>
             <p>Rhodolph, some time after his accession to the Imperial throne, listened to the ambitious schemes of his son Albert, who was desirous to form Helvetia into a dutchy. For this purpose, the emperor purchased the domains of several abbeys, and other considerable fiefs in Switzerland, as well in the Can<g ref="char:EOLhyphen"/>ton of Schweitz, as in the neighbouring territories. The three Cantons, induced by the great increase of power the emperor gained by these acquisitions, prudently renewed their alliance, and obtained a confirmation of their privileges; which, upon the death of Rhodolph, were again confirmed by his successor, Adolphus of Nassau. But when Albert was afterwards elect<g ref="char:EOLhyphen"/>ed emperor, he refused to ratify their rights, and endeavoured to seize the absolute dominion of Switzerland. With this de<g ref="char:EOLhyphen"/>sign,
-<pb n="85" facs="tcp:030369_0082_0FE6B6BA655382F0"/>
+<pb n="85" facs="unknown:030369_0082_0FE6B6BA655382F0"/>
 he appointed one Gesler, or Grisler, to the government of Uri; and one Landerberg, to that of Underwalden. They were ordered to reduce the three Cantons, by corruption or force; and were fitted, by the baseness of their minds, for the task.</p>
             <p>These governors, not succeeding by the engines of corrup<g ref="char:EOLhyphen"/>tion, among men who knew that happiness consisted in virtue, and that without liberty, there could be neither, employed every mode of cruelty and violence to subdue them; until the irritated people leagued to throw off, by a generous effort, this intolerable oppression.</p>
             <p>It was under these circumstances that Werner Staffach, of Schweitz, Walter Furst, of Uri, and Arnold Melchthal, of Underwalden, (men, says Voltaire, the difficulty of pronounc<g ref="char:EOLhyphen"/>ing whose names has alone prevented their celebrity) planned the famous revolution, which restored liberty to the three Can<g ref="char:EOLhyphen"/>tons, and laid the foundation of the Helvetic confederacy. Each of them entrusted three friends with the scheme; and, as <hi>a little leaven leaveneth the whole lump,</hi> from these twelve the whole of Uri, Schweitz, and Underwalden, were soon in a <hi>ferment.</hi> While the conspiracy was yet forming, Gesler, the governor of Uri, carrying his tyranny to a ridiculous ex<g ref="char:EOLhyphen"/>treme, caused one of his hats to be set up on a pole, in the market square of Altdorf, and ordered all persons, under pain of death, to salute it as a mark of obedience to the emperor. William Tell openly refusing to yield this proof of slavish obedience, the governor determined to make him feel the weight of his indignation. He condemned him to be hung; and pardoned him, only on condition of his cleaving, with an arrow, at a certain distance,<note n="*" place="bottom">120 paces. Fouche, Etat et Délices, &amp;c.</note> an apple placed on the head of his son. The trembling father drew, and was so fortunate as to strike the apple, and leave the boy unhurt. Gesler, perceiving a second arrow sticking in a part of Tell's garment, asked him what it was for? "For thee," said the Swiss, "if the first had harmed my boy."</p>
             <p>
-               <pb n="86" facs="tcp:030369_0083_0FE6B6C18B01BBD8"/>From the description which Mr. Keysler gives of the statue of Tell, in the Arsenal at Berne, we may gather, at least, the notions of the Switzers concerning the person of their favourite hero, and the dress which, either through tradition, or other information, they assign to that early period. "At the end of the hall is an excellent wooden image of the famous Wil<g ref="char:EOLhyphen"/>liam Tell: he is aiming at the apple on the head of his little son, who stands opposite to him: the hands and eyes are ad<g ref="char:EOLhyphen"/>mirably expressed. He appears to have been a tall raw-boned man, with a very honest countenance; and, according to the fashion of the times, one half of his coat is red, and the other black and yellow stripes, alternately: his breeches and stock<g ref="char:EOLhyphen"/>ings are of one single piece; and an arrow sticks in his coat, behind his head: the boy is laughing, as apprehending no danger."</p>
+               <pb n="86" facs="unknown:030369_0083_0FE6B6C18B01BBD8"/>From the description which Mr. Keysler gives of the statue of Tell, in the Arsenal at Berne, we may gather, at least, the notions of the Switzers concerning the person of their favourite hero, and the dress which, either through tradition, or other information, they assign to that early period. "At the end of the hall is an excellent wooden image of the famous Wil<g ref="char:EOLhyphen"/>liam Tell: he is aiming at the apple on the head of his little son, who stands opposite to him: the hands and eyes are ad<g ref="char:EOLhyphen"/>mirably expressed. He appears to have been a tall raw-boned man, with a very honest countenance; and, according to the fashion of the times, one half of his coat is red, and the other black and yellow stripes, alternately: his breeches and stock<g ref="char:EOLhyphen"/>ings are of one single piece; and an arrow sticks in his coat, behind his head: the boy is laughing, as apprehending no danger."</p>
             <p>As the story of the apple is the only part of the history of this revolution which has ever been questioned, I shall here insert that passage of Mr. Cox<gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
                </gap>, in which he mentions this tale, and the reasons for and against believing it.</p>
             <p>"Having re-embarked at Brunnen, we soon entered the third branch, or the lake of Uri; the scenery of which is so grand and sublime, that its impression will never be erased from my mind. Imagine to yourself a deep and narrow lake, about nine miles in length, bordered on both sides with rocks uncommonly wild and romantic, and, for the most part, per<g ref="char:EOLhyphen"/>pendicular; with forests of beech and pine growing down their sides, to the very edge of the water: indeed, the rocks are so entirely steep and overhanging, that we scarcely observed more than four or five places where we could have landed. Upon the highest point of the Seelisburgh, we observed a small cha<g ref="char:EOLhyphen"/>pel that seemed inaccessible; and below it the little village of Gruti, near which the three heroes of Switzerland (Furst, Staffach, and Melchthal) are said to have taken reciprocal oaths of fidelity, when they planned the famous revolution. On the opposite side appears the chapel of William Tell; erected in honour of that hero, upon the very spot where (it is said) he leaped from the boat, in which he was conveying,
-<pb n="87" facs="tcp:030369_0084_0FEA37DF26B057B8"/>
+<pb n="87" facs="unknown:030369_0084_0FEA37DF26B057B8"/>
 as a prisoner, to Kussnacht, and shot the tyrant Gesler. It is built upon a rock that projects into the lake under a hang<g ref="char:EOLhyphen"/>ing wood; a situation, amid scenes so strikingly awful, as must strongly affect even the most dull and torpid imagina<g ref="char:EOLhyphen"/>tion! On the inside of this chapel, the several actions of William Tell are coarsely painted. While we were viewing them, we observed the countenances of our watermen glisten<g ref="char:EOLhyphen"/>ing with exultation; and they related to us, with much spirit and sensibility, the cruelties and tyranny of Gesler, governor of Uri, and the intrepid behaviour of their glorious deliverer. Indeed, I have frequently remarked with pleasure, the national enthusiasm which so generally prevails in this country; and have greatly admired the fire and animation with which the people discourse of those famous men among their ancestors, to whom they are indebted for that happy state of indepen<g ref="char:EOLhyphen"/>dence which they now enjoy. This laudable spirit is conti<g ref="char:EOLhyphen"/>nually supported and encouraged by the number of statues, and other memorials, of the ancient Swiss heroes, which are so common in every town and village throughout Switzerland. Among these, Tell is the most distinguished, and he seems to be the peculiar favourite of the common people: the reason is obvious, for his story partakes greatly of the marvellous.</p>
             <p>A few years ago a treatise, entitled <hi>Fable Danoise,</hi> was published at Berne; in which the author calls in question the history of William Tell. Though his arguments in general are by no means conclusive, yet he mentions two circumstan<g ref="char:EOLhyphen"/>ces, which, if true, are convincing proofs, that much fiction is interwoven with the whole account: for the author asserts that the incident of Tell's shooting the apple from the head of his son, is not recorded by any of the cotemporary histo<g ref="char:EOLhyphen"/>rians, although they give the minutest accounts of the gover<g ref="char:EOLhyphen"/>nor's tyranny; and that the first writer who takes notice of it, is Petermann Etterlin, of Lucerne, who lived in the latter end of the fifteenth century, near two hundred years after the fact is supposed to have happened. Besides, a story of the same kind is related in the Danish annals by Saxo Grammaticus, with scarcely any difference but that of names: Herod, king
-<pb n="88" facs="tcp:030369_0085_0FEA37A8F1F4D180"/>
+<pb n="88" facs="unknown:030369_0085_0FEA37A8F1F4D180"/>
 of Denmark, supplies the place of the governor of Uri; and Tocco that of William Tell; and this event, which is said to have happened in 965, is attended also with nearly the same incidents as those recorded in the Swiss account. Neverthe<g ref="char:EOLhyphen"/>less, it is far from being a necessary consequence, that, be<g ref="char:EOLhyphen"/>cause the authenticity of the story concerning the apple is li<g ref="char:EOLhyphen"/>able to some doubts; <hi>therefore,</hi> the whole tradition relating to Tell is fabulous. Neither is it a proof against the reality of a fact, that it is not mentioned by any cotemporary histo<g ref="char:EOLhyphen"/>rians. The general history of William Tell is repeatedly ce<g ref="char:EOLhyphen"/>lebrated in several old German songs, so remarkable for their ancient dialect and simplicity, as almost to raise the deeds they celebrate, above all reasonable suspicion: add to this, the con<g ref="char:EOLhyphen"/>stant tradition of the country, together with two chapels erect<g ref="char:EOLhyphen"/>ed some centuries ago, in memory of his exploits.</p>
             <p>The three Cantons were so much offended with the author for throwing any doubt upon the exploits of their ancient hero, that they presented a remonstrance to the sovereign council of Berne: and the pamphlet was publicly burnt at Uri. In this instance, their national prejudices (if they really deserve that name) become, in some measure, meritorious and respect<g ref="char:EOLhyphen"/>able."</p>
             <p>Be the story of the apple false or true, there appears to be no doubt that Tell having been seized by Gesler, he intended lodging him in the castle of Kussnacht; and did himself ac<g ref="char:EOLhyphen"/>company the prisoner across the lake of Uri. This, if the tale of the apple be true, must have been after having granted his life on condition of the trial of his archery; when, as the Swiss historians say, Gesler, being irritated by Tell's reply concerning the second arrow, determined to make him finiſh his days in a dungeon. During their voyage, a sudden gust arose, which agitated the waters of the lake, and rendered the boat totally ungovernable in the hands of the Austrians. No one was calm but Tell. The boat was driving upon the over<g ref="char:EOLhyphen"/>hanging rocks which border the lake, and inevitable death seemed to await all in her; when Gesler turned his attention to Tell, and saw in him the only object of hope. With the
-<pb n="89" facs="tcp:030369_0086_0FEA37AAEB4210F0"/>
+<pb n="89" facs="unknown:030369_0086_0FEA37AAEB4210F0"/>
 baseness, which is a part of the tyrant's character, he now begged his life of the injured man. Tell looked upon his chains. They were instantly unlocked, and he, with that skill which the unvitiated man will ever acquire while active to help himself and aid others, equally secure upon the mountain's snowy brow, the valley of ice, or the bosom of the lake, seiz<g ref="char:EOLhyphen"/>ing the helm, and commanding his armed masters, guides the boat to a part of the shore more accessible than the rest, and sheltered from the blast. As they approached the place of landing, Tell secured the cross-bow and arrow of one of the guard, and, watching his opportunity, leaped upon the rocks, and, instantly turning, shot the governor dead;<note n="*" place="bottom">Some write that the governor was slain after he had landed, and was proceeding to the castle; Tell, having waited for him in a crooked road, and shot him as he passed. "In memory of these two actions," says Fauche, "there are two chapels to be seen at this day, one on the rocks upon which Tell leaped, and the other on the spot where the governor fell."</note> then joining the conspirators, he animated them to an immediate execution of their designs.</p>
             <p>About the beginning of January, 1308, the people arose, seized the castles without bloodshed, and by a moderation al<g ref="char:EOLhyphen"/>most incredible in an irritated people, a mark of virtue per<g ref="char:EOLhyphen"/>haps unexampled, the governors were peaceably conducted to the frontiers and released; having no condition exacted from them but simply an oath never to return to Switzerland. Thus four private men, without wealth, or the advantages which at that time were annexed to birth, but animated by a love of their country, and a just hatred against tyrants, were the im<g ref="char:EOLhyphen"/>mortal founders of Helvetic liberty!</p>
             <p>Albert immediately made preparations to attack the Can<g ref="char:EOLhyphen"/>tons, and marched with an army against them; but before en<g ref="char:EOLhyphen"/>tering their country he was assassinated by his nephew, John of Hapsburgh, Duke of Suabia. The occasion of this assas<g ref="char:EOLhyphen"/>sination, and the circumstances attending it, were as follow:— Albert, as guardian to his nephew, John of Hapsburgh, had taken possession of his hereditary dominions in Switzerland,
-<pb n="90" facs="tcp:030369_0087_0FEA37AF29751538"/>
+<pb n="90" facs="unknown:030369_0087_0FEA37AF29751538"/>
 and refused, under various pretences, to deliver them up to him. At length, wearied with repeated and fruitless solicita<g ref="char:EOLhyphen"/>tions, John entered into a conspiracy against the emperor, with Rhodolph de Warth, Ulric de Palme, Walter de Eschen<g ref="char:EOLhyphen"/>back, and Conrad de Tagerfeld.</p>
             <p>The emperor dined at Baden, in his way to Rheinfelden, a town in the circle of Suabia, where the empress, his consort, had collected a considerable body of troops, with which he purposed invading the three Cantons of Uri, Schweitz, and Underwalden, to bend them to his yoke. Cotemporary historians, who have recorded the minutest circumstances, in this whole transaction, relate, that Albert was in high spirits during the repast; and, that his nephew again entreating to be put in possession of his hereditary dominions, the emperor, with an air of banter, placed a garland of flowers upon his head, adding, at the same time, "This will be more suitable to you, for the present, than the cares of a troublesome go<g ref="char:EOLhyphen"/>vernment." This taunt had such an effect upon the young prince, that he burst into tears, flung away the flowers, and could not be prevailed upon to sit down to the table.</p>
             <p>After dinner, Albert continued his journey on horseback, accompanied by his son Leopold, the conspirators, and his usual attendants; and came near the town of Windish, in the Canton of Berne, to the Reuss, over which river passengers were usually ferried upon a raft. The conspirators passed over first, and were followed by Albert. As he was riding gently on, expecting his son Leopold, and the remainder of his suite, he was suddenly beset by the assassins. One of them seizing his horse's bridle, John of Hapsburgh reproached him for his injustice, in detaining his dominions, and struck him on the neck with his sword; Rhodolph de Warth wounded him in the side; and Ulric de Palme clove his head with a sabre. In this condition they left him expiring upon the ground.</p>
             <p>This assassination was committed the first of May, 1308, in the open day, and in the sight of his son Leopold, and the rest of his court, who had not as yet passed the river; and
-<pb n="91" facs="tcp:030369_0088_0FEA37DA8B9D5F98"/>
+<pb n="91" facs="unknown:030369_0088_0FEA37DA8B9D5F98"/>
 who, though witnesses to the murder, yet could not assist the emperor. The field lies between the Aar and the Reuss, not far from the junction of those two rivers; and the very spot, where he was massacred, is marked by a convent, erected by his wife Elizabeth, and his daughter Agnes. The place was called Köningsfelden, or Kingsfield; a name it retains to this day. The remains of the emperor were buried in the con<g ref="char:EOLhyphen"/>vent of Witterling, from whence they were afterwards trans<g ref="char:EOLhyphen"/>ported to Spire, and there interred.<note n="*" place="bottom">Coxe.</note>
             </p>
             <p>The assassins fled to the Cantons of Uri, Schweitz, and Underwalden, expecting to find a sure asylum in a na<g ref="char:EOLhyphen"/>tion, which Albert was preparing to invade. But the generous natives, detesting a crime of so atrocious a nature, although committed upon the person of their greatest and most formid<g ref="char:EOLhyphen"/>able enemy, refused to protect the murderers: jealous, indeed, of their liberties, but too wise to think that guilt would sup<g ref="char:EOLhyphen"/>port them.<note n="†" place="bottom">Watteville.</note>
             </p>
             <p>In 1315, Leopold, Duke of Austria, marched against the confederate Cantons, at the head of twenty thousand troops; and, endeavouring to force his way into Schweitz, at the Straits of Morgaten, received a total defeat, from thirteen hundred Swiss, who were posted upon the mountains. These brave republicans, after having thrown the Austrians into disorder, by rolling down rocks from the hills, descended, and pursued them with dreadful slaughter. A cotemporary author says, that he saw Leopold return, after the combat, to Win<g ref="char:EOLhyphen"/>terther, as pale as death; and that the action was rather a massacre than a battle. If we may believe cotemporary his<g ref="char:EOLhyphen"/>torians, the Swiss lost but fourteen men in this memorable engagement, which insured their independence.</p>
             <p>From the circumstance of this decisive engagement being fought in the Canton of Schweitz, the other two Cantons, it is supposed, adopted the name of Schweitz for the confederacy, which spread over the whole country that now bears it, as the other Cantons joined the league. Thus the name of the
-<pb n="92" facs="tcp:030369_0089_0FEA37DD301A50D8"/>
+<pb n="92" facs="unknown:030369_0089_0FEA37DD301A50D8"/>
 union serves to commemorate the victory by which their hap<g ref="char:EOLhyphen"/>piness was secured.</p>
             <p>Some years after the battle of Morgaten, Lucerne joined the confederacy; and this accession enabled it, in 1386, to resist all the efforts of a great and implacable enemy. In that year, Leopold, Duke of Austria, invaded Switzerland with a numerous army; when the combined troops gained a bloody victory at Sempach, in which Leopold lost his life. The con<g ref="char:EOLhyphen"/>federated Swiss were but one thousand three hundred men, badly armed, and on foot. Their offensive weapons were only their large swords and their halberts: for shields, they had only pieces of wood tied to the arm, to ward off their enemies blows. In the accounts of this battle, an instance of private valour is recorded, which would have done honour even to a Grecian or a Roman name; and only requires the pen of a Thucydides, or a Livy, to equal in fame the exploits of the most admired heroes of antiquity. The Austrian army, far superior in number, was drawn up in firm battalion, ac<g ref="char:EOLhyphen"/>coutred in heavy armour, and furnished with long pikes, which they presented before them. The Swiss troops were led to the attack in the form of a wedge, in order to open their way into the ranks of the enemy, and to break the solidity of the battalion; one soldier being in front, two behind him, then four more, and so on: such was the order in which this hand<g ref="char:EOLhyphen"/>ful of men courageously advanced upon the enemy. The Austrians continuing for some time impenetrable, Arnold de Winkelreid, a native of Underwalden, devoted his life to the service of his country. Rushing, alone, upon the enemy, he seized as many pikes as he could grasp, presenting his breast to inevitable death: thus opening the way for his countrymen to come within the Austrian pikes, and inflaming their cou<g ref="char:EOLhyphen"/>rage anew, they followed, and penetrated the battalion. Once enabled to use their arms with effect, nothing could resist the Swiss, and the overthrow of the Austrians was complete. They lost two thousand men, among whom they numbered six hundred and seventy six gentlemen of the first families in Germany.</p>
             <p>
-               <pb n="93" facs="tcp:030369_0090_0FEA37A724DC7E30"/>Leopold himself might have escaped, when his troops first began to give way; but, with a magnanimity worthy of a better cause, he determined, after having been a witness to the total rout of his army, not to survive so ignominious a day: accordingly, he rushed into the thickest of the enemy, and was slain. In the arsenal of Lucerne is still preserved his armour, together with a large quantity of cords; with which, according to tradition, he intended to have bound the citizens.</p>
+               <pb n="93" facs="unknown:030369_0090_0FEA37A724DC7E30"/>Leopold himself might have escaped, when his troops first began to give way; but, with a magnanimity worthy of a better cause, he determined, after having been a witness to the total rout of his army, not to survive so ignominious a day: accordingly, he rushed into the thickest of the enemy, and was slain. In the arsenal of Lucerne is still preserved his armour, together with a large quantity of cords; with which, according to tradition, he intended to have bound the citizens.</p>
             <p>Switzerland was the rock on which the house of Austria split, during more than a century. Blinded with resentment against their former subjects, and anxious to recover their lost domains in these parts, the several dukes led in person consi<g ref="char:EOLhyphen"/>derable armies to subdue a nation, whose spirit was uncon<g ref="char:EOLhyphen"/>querable; and to obtain possession of a country, which, from its situation, was easily defended, by a handful of men, against the most numerous troops. Within the period above-men<g ref="char:EOLhyphen"/>tioned, they neglected several opportunities of aggrandizing themselves in other parts; and, slighting what was more fea<g ref="char:EOLhyphen"/>sible, bent their whole efforts to acquire what in its very nature was unattainable. The consequence of this mistaken policy was, a continued succession of defeats, attended with a prodi<g ref="char:EOLhyphen"/>gious expence, and the loss of their bravest troops: until at length, convinced of their error, they totally relinquished an attempt, in which they had expended so much fruitless blood and treasure. But although several emperors of that house occasionally made alliances with the Swiss Cantons, yet it was not till the treaty of Westphalia that their independence was fully and finally acknowledged, by Ferdinand III. and the whole empire.</p>
             <p>The government of Uri and Schweitz is entirely democra<g ref="char:EOLhyphen"/>tical, and nearly the same. The supreme power resides in the people at large, who are divided into several com<gap reason="illegible: indecipherable" extent="4 letters">
                   <desc>••••</desc>
                </gap>ities, from which are chosen the councils of regency. In the <hi>Lands-gemeind,</hi> or general assembly, the landamman, and the prin<g ref="char:EOLhyphen"/>cipal magistrates, are elected; and every burgher, at the age of fourteen in the Cantons of Uri and Underwalden, and of fifteen in Schweitz, has a right to vote. The councils of re<g ref="char:EOLhyphen"/>gency
-<pb n="94" facs="tcp:030369_0091_0FEA37E0E5293AB8"/>
+<pb n="94" facs="unknown:030369_0091_0FEA37E0E5293AB8"/>
 in Uri and Schweitz consist each of six members, and reside at the capital burghs. In this council the executive power is vested, and from this body the principal magistrates are chosen.</p>
             <p>These two Cantons contain, including their subjects, about fifty thousand souls; and, in case of necessity, could furnish about twelve thousand militia. "Such," says Mr. Coxe, "is the purity of manners and morals among these people, as cannot easily be imagined by the inhabitants of great and opu<g ref="char:EOLhyphen"/>lent cities: and I cannot reflect on that affectionate patriotism which so strongly attaches them to their country, without call<g ref="char:EOLhyphen"/>ing to mind that beautiful description of the Swiss peasant in Goldsmith's Traveller. —</p>
             <l>"Dear is the shed to which his soul conforms,</l>
@@ -3694,7 +3695,7 @@ in Uri and Schweitz consist each of six members, and reside at the capital burgh
       </body>
       <back>
          <div type="errata">
-            <pb facs="tcp:030369_0092_0FEA37E2ED20BFE8"/>
+            <pb facs="unknown:030369_0092_0FEA37E2ED20BFE8"/>
             <head>ERRATA IN THE OPERA.</head>
             <p>Page 10, line 7th, dele "enters" before "crying." Line 18th, for "pavers" read "pavements"</p>
             <p>Page 11, line 23d, for "or the other" read "and the other."</p>
